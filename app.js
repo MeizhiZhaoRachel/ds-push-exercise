@@ -1,1 +1,0 @@
-alert("Why do you come here?");
